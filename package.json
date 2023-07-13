@@ -1,0 +1,19 @@
+{
+  "name": "vbmeta-disabler",
+  "version": "1.0.0",
+  "description": "Patch vbmeta file to disable verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100Daisy/vbmeta-disabler.git"
+  },
+  "author": "Szymon Śliwiński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/100Daisy/vbmeta-disabler/issues"
+  },
+  "homepage": "https://github.com/100Daisy/vbmeta-disabler#readme"
+}
